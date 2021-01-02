@@ -1,3 +1,7 @@
+<em>Note: This is my fork of the Epic React from Kent C. Dodd. This copy exists
+purely because I have an internal fear of an unexpected computer fire where
+everything will burn and I like to push things up. - Chao</em>
+
 <div>
   <h1 align="center"><a href="https://epicreact.dev">React Fundamentals 🚀 EpicReact.Dev</a></h1>
   <strong>
@@ -229,6 +233,7 @@ Thanks goes to these wonderful people
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the
